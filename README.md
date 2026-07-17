@@ -1,7 +1,11 @@
-<h1 align="center">Hey, I'm Niranjan 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1a2a6c,100:3FCF8E&height=180&section=header&text=Niranjan%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20with%20AI%2C%20shipping%20for%20real&descAlignY=55&descSize=18" alt="banner"/>
+</div>
 
 <p align="center">
-  <b>AI-Focused Software Developer</b> · HR-Tech & Automation · Full-Stack Builder
+  <a href="https://niranjan-r.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=3FCF8E&lines=AI-Focused+Software+Developer;HR-Tech+%26+Automation+Engineer;FastAPI+%C2%B7+Supabase+%C2%B7+Gemini+Builder;Vibe+coder+with+real+fundamentals" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -15,82 +19,140 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-1DB954?style=flat-square" alt="Open to internships"/>
+  <img src="https://img.shields.io/badge/⚡_Open_to-Internships-1DB954?style=flat-square" alt="Open to internships"/>
+  <img src="https://img.shields.io/badge/📍-India-orange?style=flat-square" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=NIRANJAN-R062007&style=flat-square&color=3FCF8E&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
 
-### 🧭 About me
+## 🧭 About Me
 
-First-year B.Tech CSE student and a vibe coder — I use AI tools as a force multiplier, backed by fundamentals strong enough to know when the output is wrong. Right now I'm interning as an **AI HR Automation Engineer at Hechaar**, building HR automation on FastAPI, Supabase, and the Google Gemini API, while leading growth and community at **Teedians (Think Digital Community)**.
+```python
+class Niranjan:
+    role       = "AI HR Automation Engineer @ Hechaar (Intern)"
+    education  = "B.Tech CSE, first year"
+    community  = "Growth Lead @ Teedians (Think Digital Community)"
+    stack      = ["FastAPI", "Supabase", "Gemini API", "React", "TypeScript"]
+    philosophy = "AI as a force multiplier — with fundamentals strong enough " \
+                 "to know when the output is wrong"
 
-I care about how things ship: small commits, tested endpoints, documented migrations.
+    def how_i_ship(self):
+        return ["small commits", "tested endpoints", "documented migrations"]
+```
 
-- 🔭 **Currently building:** HR automation features on Hechaar's hiring platform — intake forms, JWT auth, staging deploys
-- 🌱 **Also shipping:** HireOrHigher, an AI career-readiness platform (with a team of 3)
-- 📣 **Leading:** growth & community at Teedians — weekly dispatches, community strategy
+- 🔭 **Currently building:** HR automation on Hechaar's hiring platform — intake forms, JWT auth, staging deploys
+- 🌱 **Also shipping:** **HireOrHigher**, an AI career-readiness platform (with a team of 3)
+- 📣 **Leading:** growth & community at **Teedians** — weekly dispatches, community strategy
 - 💬 **Ask me about:** AI-assisted development, HR-tech, FastAPI + Supabase + Gemini stacks
-- 📫 **Reach me:** [email](mailto:niranjan062007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niranjan-ratnagopi)
+- 📫 **Reach me:** [niranjan062007@gmail.com](mailto:niranjan062007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niranjan-ratnagopi)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+**Core**
 
-**Frameworks & Runtimes**
+<a href="#"><img src="https://skillicons.dev/icons?i=python,ts,js,c,react,vite,tailwind,nodejs,express,fastapi&theme=dark" alt="Languages & frameworks"/></a>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Data & Infra**
 
-**Platforms & Tools**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,postman,netlify,vercel,githubactions&theme=dark" alt="Platforms & tools"/></a>
 
 **AI Workflow**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **HireOrHigher** | AI career-readiness platform — resume parser, gap-to-job mapper, mock interview generator, LinkedIn optimizer. Built with a team of 3. | FastAPI · Gemini · Supabase |
-| [**ai-resume-reviewer**](https://github.com/NIRANJAN-R062007/ai-resume-reviewer) | Upload a resume + job description, get a structured match score, strengths, gaps, and improvement suggestions. | FastAPI · Gemini |
-| [**Employee-Progressive-Summary-system**](https://github.com/NIRANJAN-R062007/Employee-Progressive-Summary-system) | Generates daily summaries, performance analytics, and weekly team reports with Gemini AI. | Python · FastAPI · Supabase |
-| [**cron-automation**](https://github.com/NIRANJAN-R062007/cron-automation) | Production-ready scheduled jobs — KPI reminders, Supabase monitoring, ops digests — with retry logic and structured JSON logging. | Python · APScheduler |
-| [**Employee-portal**](https://github.com/NIRANJAN-R062007/Employee-portal) | Role-based self-service portal: attendance, daily progress, leave requests, and an HR admin panel. | React · Vite · Tailwind |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 HireOrHigher</h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-in_development-yellow?style=flat-square"/></p>
+      <p>AI career-readiness platform — resume parser, gap-to-job mapper, mock interview generator, LinkedIn optimizer. Built with a team of 3.</p>
+      <p align="center"><code>FastAPI</code> · <code>Gemini</code> · <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/NIRANJAN-R062007/ai-resume-reviewer">📄 AI Resume Reviewer</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-shipped-3FCF8E?style=flat-square"/></p>
+      <p>Upload a resume + job description → structured match score, strengths, gaps, and improvement suggestions.</p>
+      <p align="center"><code>FastAPI</code> · <code>Gemini</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/NIRANJAN-R062007/Employee-Progressive-Summary-system">📊 Employee Progressive Summary</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-shipped-3FCF8E?style=flat-square"/></p>
+      <p>Generates daily summaries, performance analytics, and weekly team reports with Gemini AI.</p>
+      <p align="center"><code>Python</code> · <code>FastAPI</code> · <code>Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/NIRANJAN-R062007/cron-automation">⏰ Cron Automation</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-production-3FCF8E?style=flat-square"/></p>
+      <p>Production-ready scheduled jobs — KPI reminders, Supabase monitoring, ops digests — with retry logic and structured JSON logging.</p>
+      <p align="center"><code>Python</code> · <code>APScheduler</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/NIRANJAN-R062007/Employee-portal">🏢 Employee Portal</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-shipped-3FCF8E?style=flat-square"/></p>
+      <p>Role-based self-service portal: attendance, daily progress, leave requests, and an HR admin panel.</p>
+      <p align="center"><code>React</code> · <code>Vite</code> · <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ More on the way</h3>
+      <p align="center"><img src="https://img.shields.io/badge/status-cooking-blueviolet?style=flat-square"/></p>
+      <p>Check my <a href="https://github.com/NIRANJAN-R062007?tab=repositories">repositories</a> or <a href="https://niranjan-r.vercel.app/">portfolio</a> for the latest.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**AI HR Automation Engineer — Intern** · Hechaar *(via Teedians)* · Jun 2026 – Present
-- Owned the Client Hiring Intake Form end-to-end — UI, backend, and a critical JWT auth fix — with full Postman coverage and documented SQL migrations
-- Deployed the platform backend to Render, configured Netlify branch deploys for both frontends, and led the migration to staging
-- Built the Hechaar Employee Portal (React + Supabase/FastAPI + Gemini) with a disciplined one-file-one-commit Git workflow
+<details open>
+<summary><b>🤖 AI HR Automation Engineer — Intern</b> · Hechaar <i>(via Teedians)</i> · Jun 2026 – Present</summary>
+<br/>
 
-**Growth Lead & Community Manager** · Teedians (Think Digital Community) · Mar 2026 – Present *(member since Jun 2025)*
+- Owned the **Client Hiring Intake Form** end-to-end — UI, backend, and a critical **JWT auth fix** — with full Postman coverage and documented SQL migrations
+- Deployed the platform backend to **Render**, configured **Netlify branch deploys** for both frontends, and led the migration to staging
+- Built the **Hechaar Employee Portal** (React + Supabase/FastAPI + Gemini) with a disciplined one-file-one-commit Git workflow
+
+</details>
+
+<details open>
+<summary><b>📣 Growth Lead & Community Manager</b> · Teedians (Think Digital Community) · Mar 2026 – Present <i>(member since Jun 2025)</i></summary>
+<br/>
+
 - Drive weekly community dispatches and WhatsApp communications
 - Shape growth strategy: club activation, showcase participation, Hall of Fame recognitions
+
+</details>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/NIRANJAN-R062007/NIRANJAN-R062007/output/snake.svg" alt="Snake eating my contributions"/>
+  </picture>
+</div>
 
 ---
 
@@ -99,3 +161,7 @@ I care about how things ship: small commits, tested endpoints, documented migrat
   <a href="https://www.linkedin.com/in/niranjan-ratnagopi">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:niranjan062007@gmail.com">✉️ Email</a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,50:1a2a6c,100:0A0F1E&height=120&section=footer" alt="footer"/>
+</div>
