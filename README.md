@@ -45,7 +45,16 @@ class Niranjan:
 - 🌱 **Also shipping:** **HireOrHigher**, an AI career-readiness platform (with a team of 3)
 - 📣 **Leading:** growth & community at **Teedians** — weekly dispatches, community strategy
 - 💬 **Ask me about:** AI-assisted development, HR-tech, FastAPI + Supabase + Gemini stacks
-- 📫 **Reach me:** [niranjan062007@gmail.com](mailto:niranjan062007@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niranjan-ratnagopi)
+
+<p align="center">
+  <a href="https://niranjan-r.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20%20Visit%20My%20Portfolio-3FCF8E?style=for-the-badge&logoColor=white&labelColor=0A0F1E" height="38" alt="Visit my portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:niranjan062007@gmail.com">
+    <img src="https://img.shields.io/badge/📫%20%20Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" height="38" alt="Reach me by email"/>
+  </a>
+</p>
 
 ---
 
@@ -156,10 +165,22 @@ class Niranjan:
 
 ---
 
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://niranjan-r.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/niranjan-ratnagopi">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:niranjan062007@gmail.com">✉️ Email</a>
+  <a href="https://niranjan-r.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20%20PORTFOLIO-Explore%20my%20work-3FCF8E?style=for-the-badge&labelColor=0A0F1E" height="42" alt="Portfolio — explore my work"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-ratnagopi">
+    <img src="https://img.shields.io/badge/💼%20%20LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&labelColor=0A0F1E" height="42" alt="LinkedIn — let's connect"/>
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:niranjan062007@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20%20EMAIL-Say%20hello-D14836?style=for-the-badge&labelColor=0A0F1E" height="42" alt="Email — say hello"/>
+  </a>
 </p>
 
 <div align="center">
